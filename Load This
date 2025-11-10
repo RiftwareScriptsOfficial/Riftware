@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RiftwareScriptsOfficial/Riftware-Source-Codes/refs/heads/main/Key%20System"))()
